@@ -1,0 +1,93 @@
+.ttle {
+	font-size: 16px;
+}
+.atas {
+	background-color: #6c0e10;
+	padding-top: 70px;
+	padding-bottom: 10px;
+}
+.judul {
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.c1 {
+	font-family: 'Amiri', italic;
+	text-align: left;
+	margin-top: 180px;
+}
+
+.judul2 {
+	background-image: url("./img/bgk.jpg");
+	/*background-repeat: no-repeat;*/
+	/*background-size: 200%;*/
+	margin-top: 100px;
+	height: 235px;
+	font-family: 'PT Sans', sans-serif;
+	color: white;
+	text-align: center;
+}
+.ha1 {
+	font-weight: bold;
+	font-size: 27px;
+}
+.ha5 {
+	font-size: 27px;
+	margin-top: 32px;
+
+}
+.pe {
+	font-weight: bold;
+	font-size: 14px;
+}
+.t {
+	margin-top: 30px;
+	margin-left: 355px;
+	font-size: 20px;
+	/*font-weight: bold;*/
+}
+.tb2 {
+	margin-top: -64px;
+	margin-left: 270px;
+	/*font-weight: bold;*/
+}
+.t1 {
+	margin-top: -100px;
+}
+
+/*.m {
+	background-color: #6c0e10;
+	margin-top: -50px;
+	font-size: 10px;
+	color: #6c0e10;
+}*/
+
+.lg {
+	margin-left: 50px;
+	width: 400px;
+}
+
+.btm1 {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 12px;
+	margin-left: 50px;
+	margin-bottom: -3px;
+}
+.btm2 {
+	margin-right: 50px;
+	font-size: 12px;
+	margin-top: -60px;
+}
+
+.bld {
+	font-family: 'PT Sans', sans-serif;
+	font-weight: bold;
+}
+
+.l {
+	width: 10px;
+}
+.cncp {
+	margin-top: 30px;
+	padding-bottom: 30px;
+}
